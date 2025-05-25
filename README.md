@@ -1,12 +1,3 @@
-<!--
-████████╗██╗███╗   ██╗███████╗     ██████╗ ██╗   ██╗██╗     ██╗      ██╗  ██╗██╗  ██╗
-╚══██╔══╝██║████╗  ██║██╔════╝    ██╔═══██╗██║   ██║██║     ██║      ██║ ██╔╝╚██╗██╔╝
-   ██║   ██║██╔██╗ ██║█████╗      ██║   ██║██║   ██║██║     ██║      █████╔╝  ╚███╔╝ 
-   ██║   ██║██║╚██╗██║██╔══╝      ██║   ██║██║   ██║██║     ██║      ██╔═██╗  ██╔██╗ 
-   ██║   ██║██║ ╚████║███████╗    ╚██████╔╝╚██████╔╝███████╗███████╗██║  ██╗██╔╝ ██╗
-   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝     ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
--->
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/95167243?v=4?s=200" width="120" alt="Naveed Ullah Khan" style="border-radius:50%;box-shadow:0 2px 12px #00000030;">
 </p>
@@ -34,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Premium%20Engineering%20Craftsmanship&fontSize=36&fontAlign=50&fontColor=fff&desc=Designing%20Frictionless%20User%20Experiences&descSize=18&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Premium%20Engineering%20Craftsmanship&fontSize=36&fontAlign=50&fontColor=fff&desc=Designing%20Frictionless%20User%20Experiences&descSize=18" />
 </div>
 
 ---
