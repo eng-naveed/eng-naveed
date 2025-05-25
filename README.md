@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Premium%20Engineering%20Craftsmanship&fontSize=36&fontAlign=50&fontColor=fff&desc=Designing%20Frictionless%20User%20Experiences&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Premium%20Engineering%20Craftsmanship&fontSize=36&fontColor=fff&desc=Designing%20Frictionless%20User%20Experiences&descSize=18" />
 </div>
 
 ---
