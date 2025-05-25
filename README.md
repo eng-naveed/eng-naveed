@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Premium%20Engineering%20Craftsmanship&fontSize=36&fontAlign=50&fontColor=fff&desc=Designing%20Frictionless%20User%20Experiences&descSize=18&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Premium%20Engineering%20Craftsmanship&fontSize=36&fontAlign=50&fontColor=fff&desc=Designing%20Frictionless%20User%20Experiences&descSize=18&descAlign=50" />
 </div>
 
 ---
@@ -150,7 +150,3 @@ I specialize in the MERN stack & React-Native, delivering scalable, secure, and 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&duration=3500&color=16A085&center=true&vCenter=true&width=700&lines=Crafting+Digital+Experiences+That+Convert;Building+with+Empathy%2C+Designing+for+Delight;Let's+Create+Your+Next+Success+Story!">
 </p>
 
-<!-- Premium visual: Your CV inline for instant credibility -->
-<p align="center"><img src="image1" alt="Naveed Ullah Khan CV" width="80%" style="border-radius:16px;box-shadow:0 4px 32px #00000033;"/></p>
-
----
