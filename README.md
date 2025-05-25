@@ -8,7 +8,7 @@
 -->
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/eng-naveed](https://avatars.githubusercontent.com/u/95167243?v=4)?s=200" width="120" alt="Naveed Ullah Khan" style="border-radius:50%;box-shadow:0 2px 12px #00000030;">
+  <img src="https://avatars.githubusercontent.com/u/95167243?v=4?s=200" width="120" alt="Naveed Ullah Khan" style="border-radius:50%;box-shadow:0 2px 12px #00000030;">
 </p>
 
 <h1 align="center" style="font-size: 2.5rem; font-family: 'SF Pro Display', 'Inter', Arial, sans-serif; letter-spacing:-1px; color: #222;">
