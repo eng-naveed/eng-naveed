@@ -32,7 +32,7 @@
 
 ## 👋 About Me
 
-As a passionate Full Stack Engineer with 4+ years of proven impact, I build products that users love and businesses trust. My philosophy: **Design with empathy, deliver with excellence.**  
+As a passionate Full Stack Engineer with 5+ years of proven impact, I build products that users love and businesses trust. My philosophy: **Design with empathy, deliver with excellence.**  
 <br>
 I specialize in the MERN stack & React-Native, delivering scalable, secure, and lightning-fast digital experiences for startups and global brands alike. My expertise bridges UI/UX, engineering, and business goals—turning complex requirements into beautiful, performant solutions.
 
